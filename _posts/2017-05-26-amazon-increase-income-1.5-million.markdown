@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon increase income 1.5 Million
+title: 버핏 서울에 미치다 ... 운동 3주차.. 이야기
 date: '2017-05-26 10:05:55 +0300'
 image: /assets/images/blog/post-2.jpg
 author: uixgeek
@@ -40,5 +40,3 @@ https://butfitseoul.com/static/butfit/img/emblem/burning_800.png
 하지만, 해야지...왜냐... 난 Daaaaaa ji .... 니깐......
 
 https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F247A4D3D556FFF5224
-
-
